@@ -86,7 +86,7 @@
 			<div class="collapse navbar-collapse colapp" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto dsheaderduoi ">
 
-					<li class="nav-item ndheaderduoi active dropdown">
+					<li class="nav-item ndheaderduoi dropdown">
 						<a class="nav-link dropdown-toggle mautextnav" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							Du lịch<span class="sr-only">(current)</span>
 						</a>
@@ -96,7 +96,7 @@
 							<a class="dropdown-item" href="dulichmienbac.php">Sông nước miền Nam</a>
 						</div>
 					</li>
-					<li class="nav-item ndheaderduoi active">
+					<li class="nav-item ndheaderduoi">
 						<a class="nav-link mautextnav" href="#">Khách sạn</a>
 					</li>
 					<li class="nav-item ndheaderduoi">
@@ -135,7 +135,7 @@
 
 			<div class="collapse navbar-toggleable-xs phai" id="exCollapsingNavbar2">
 				<ul class="nav navbar-nav float-sm-right text-xs-center text-xs-right dsheaderduoi">
-					<li class="nav-item active ndheaderduoi">
+					<li class="nav-item ndheaderduoi">
 						<a class="nav-link " href="#">Du lịch <span class="sr-only">(current)</span></a>
 						<div class="gnl_inner"> 
 							<div class="global_inner" id="navmore"> 
@@ -182,10 +182,10 @@
 						</div> 
 					</li>
 					<li class="nav-item ndheaderduoi">
-						<a class="nav-link" href="#">Tin tức</a>
+						<a class="nav-link" href="thongtinkhachhang.php">Tin tức</a>
 					</li>
 					<li class="nav-item ndheaderduoi">
-						<a class="nav-link" href="#">Khuyến mại</a>
+						<a class="nav-link" href="donhang.php">Khuyến mại</a>
 					</li>
 					<li class="nav-item ndheaderduoi">
 						<a class="nav-link" href="lienhe.php">Liên hệ</a>
